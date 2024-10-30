@@ -1,1 +1,9 @@
 *.pyc
+.vscode
+output
+build
+*.egg-info
+jihe
+data
+*.pt
+outputs
